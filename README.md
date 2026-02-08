@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0722-remove-comments](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0722-remove-comments](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 ## Trie
 |  |
 | ------- |
