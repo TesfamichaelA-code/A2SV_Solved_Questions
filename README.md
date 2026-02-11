@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
+| [0811-subdomain-visit-count](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
+| [0811-subdomain-visit-count](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Trie
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0811-subdomain-visit-count](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Prefix Sum
@@ -70,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0169-majority-element) |
+| [0811-subdomain-visit-count](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 <!---LeetCode Topics End-->
