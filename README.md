@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0811-subdomain-visit-count](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Design
