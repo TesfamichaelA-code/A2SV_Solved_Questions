@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [2413-smallest-even-multiple](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
