@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2413-smallest-even-multiple](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -97,5 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2671-frequency-tracker](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
