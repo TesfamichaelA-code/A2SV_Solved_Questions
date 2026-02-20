@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2418-sort-the-people](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2553-separate-the-digits-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2553-separate-the-digits-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
