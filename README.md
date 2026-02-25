@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3527-find-the-most-common-response](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [2418-sort-the-people](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Trie
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2671-frequency-tracker](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Design
 |  |
 | ------- |
