@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0643-maximum-average-subarray-i](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0722-remove-comments](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0811-subdomain-visit-count](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
