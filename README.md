@@ -5,9 +5,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
@@ -20,39 +22,54 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0643-maximum-average-subarray-i](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0722-remove-comments](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0811-subdomain-visit-count](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2007-find-original-array-from-doubled-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3527-find-the-most-common-response](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0811-subdomain-visit-count](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Trie
 |  |
 | ------- |
@@ -62,7 +79,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
@@ -70,16 +89,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2007-find-original-array-from-doubled-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2671-frequency-tracker](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,7 +114,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,8 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [1657-determine-if-two-strings-are-close](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2007-find-original-array-from-doubled-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,9 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0811-subdomain-visit-count](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Design
 |  |
 | ------- |
@@ -138,10 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -149,5 +190,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [2007-find-original-array-from-doubled-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
