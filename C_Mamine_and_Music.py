@@ -10,5 +10,4 @@ for i, cost in learn:
     else:
         break
 print(len(choice))
-if choice:
-    print(choice)
+print(*choice)
