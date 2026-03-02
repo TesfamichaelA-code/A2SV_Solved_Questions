@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1480-running-sum-of-1d-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Binary Search
 |  |
