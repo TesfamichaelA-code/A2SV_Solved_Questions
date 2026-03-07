@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0268-missing-number) |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1480-running-sum-of-1d-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -56,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -112,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Binary Search
 |  |
@@ -129,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
@@ -199,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2007-find-original-array-from-doubled-array](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Union-Find
@@ -212,5 +220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/TesfamichaelA-code/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
